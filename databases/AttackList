@@ -1,0 +1,24 @@
+$999$ !#######! :0: *null* &na& -No attack-
+$000$ !Punch! :1: *single* &bare& -A basic melee attack, striking your opponent with your fist.-
+$001$ !Kick! :2: *single* &bare& -Deliver a powerful kick to your enemy, adding more force to your attack.-
+$002$ !Slash! :3: *single* &weapon& -Swing your weapon in a slashing motion to cut your target.-
+$003$ !Thrust! :4: *single* &weapon& -Lunge forward with your weapon to stab your foe.-
+$004$ !Double Strike! :3: *multi* &weapon& -Execute two quick strikes in succession.-
+$005$ !Roundhouse Kick! :5: *all* &bare& -Perform a spinning kick to hit your opponent.-
+$006$ !Power Slam! :5: *single* &bare& -Lift your enemy and slam them to the ground.-
+$007$ !Sweeping Strike! :2: *all* &bare& -Deliver a low, sweeping attack to trip your adversary.-
+$008$ !Uppercut! :1: *single* &bare& -Strike your enemy from below with an upward punch.-
+$009$ !Backstab! :10: *single* &weapon& -Sneak behind your opponent for a surprise attack.-
+$010$ !Counterattack! :3: *single* &weapon& -Defend and then launch a counter strike when the enemy attacks.-
+$011$ !Berserker Rage! :6: *single* &weapon& -Enter a state of heightened aggression, attacking with increased strength.-
+$012$ !Cheap Shot! :2: *single* &bare& -Use sand to disorient your enemy and then hitting them, stunning them momentarily.-
+$013$ !Grapple! :1: *single* &bare& -Engage in a grappling contest to overpower your opponent.-
+$014$ !Body Slam! :3: *single* &bare& -Slam your body into your enemy to deal damage.-
+$015$ !Rapid Strikes! :2: *multi* &weapon& -Unleash a flurry of quick, consecutive blows.-
+$016$ !Headbutt! :2: *single* &bare& -Strike your enemy with a powerful headbutt.-
+$017$ !Disarm! :1: *single* &weapon& -Attempt to disarm your enemy, causing them to drop their weapon.-
+$018$ !Leg Sweep! :2: *all* &bare& -Swipe your opponent's legs, causing them to lose balance.-
+$019$ !Spinning Slash! :4: *all* &weapon& -Execute a spinning attack to hit multiple foes around you.-
+$020$ !Mighty Cleave! :15: *single* &weapon& -Swing your weapon with great force to cleave through enemies in your path.-
+$021$ !Binary Blast! :4: *single* &bare& -Overloads the enemies with 1's and 0's causing injury.-
+$022$ !Algorithmic Assault! :5: *single* &weapon& -Attacks the opponent with algorithmic attacks.-

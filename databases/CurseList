@@ -1,0 +1,20 @@
+*999* $#######$ :0: %null% ^0^ @No attack@
+*001* $Arcane Barrage$ :2: %multi% ^5^ @Unleashes a rapid barrage of arcane energy projectiles at the target.@
+*002* $Glacial Shards$ :2: %all% ^5^ @Conjures razor-sharp shards of ice, hurling them at enemies for piercing damage.@
+*003* $Mind Blast$ :5: %single% ^10^ @Sends a powerful surge of psychic energy to damage and disorient the target's mind.@
+*004* $Shadow Strike$ :5: %single% ^10^ @Conjures a shadowy weapon that strikes the target from a distance.@
+*005* $Domination$ :5: %single% ^5^ @Takes control of the target's mind, causing grief and pain.@
+*006* $Magma Eruption$ :15: %all% ^30^ @Causes the ground to erupt with molten magma, dealing fire damage to all in the area.@
+*007* $Void Implosion$ :5: %single% ^10^ @Creates a localized implosion in the fabric of the void, damaging and pulling in nearby foes.@
+*008* $Inferno Wave$ :10: %all% ^20^ @Conjures a wave of intense flames that sweeps across the battlefield, burning everything in its path.@
+*009* $Necrotic Annihilation$ :10: %all% ^20^ @Unleashes a wave of dark energy, sapping the life force from all caught in its radius.@
+*010* $Pyroclasm$ :15: %all% ^30^ @Causes a massive explosion of fire, dealing devastating damage to a target and its surroundings.@
+*011* $Baneful Banishment$ :20: %single% ^25^ @Sends a creature to a hostile plane, subjecting it to otherworldly perils before returning.@
+*012* $Temporal Strike$ :10: %single% ^15^ @Channels temporal energy into a devastating melee or ranged attack, distorting time upon impact.@
+*013* $Thunderstorm$ :25: %all% ^50^ @Summons a raging thunderstorm, striking random targets with bolts of lightning.@
+*014* $Chrono Distortion$ :20: %single% ^30^ @Creates localized temporal distortions, causing a quick snapback.@
+*015* $Soul Devour$ :30: %single% ^45^ @Drains the life force from a target, inflicting severe damage and potentially absorbing their essence.@
+*016* $Infernal Onslaught$ :30: %all% ^60^ @Transforms the caster into a fearsome, elemental force, wreaking havoc on enemies in the immediate vicinity.@
+*017* $Telekinetic Barrage$ :15: %multi% ^40^ @Launches a relentless barrage of telekinetically propelled objects at the target.@
+*018* $Abyssal Rift$ :25: %all% ^50^ @Opens a temporary rift to the abyss, unleashing chaotic energies that harm and disorient those nearby.@
+*019* $Divine Retribution$ :50: %single% ^100^ @Calls down a powerful divine strike, smiting the target with radiant energy.@

@@ -1,0 +1,42 @@
+$000$ @CONSUMABLE@ !Healing Potion! #Restores health instantly when consumed.# %True% ^10^
+$001$ @CONSUMABLE@ !Elixir of Vitality! #Heals wounds.# %True% ^20^
+$002$ @CONSUMABLE@ !Phoenix Feather! #Accelerates healing.# %True% ^30^
+$003$ @CONSUMABLE@ !Starlight Salve! #Soothing ointment.# %True% ^40^
+$004$ @CONSUMABLE@ !Unicorn Horn Tincture! #Cures wounds and magical ailments.# %True% ^50^
+$005$ @CONSUMABLE@ !Dreamer's Draught! #Induces deep, rejuvenating sleep.# %True% ^60^
+$006$ @CONSUMABLE@ !Mender's Crystal! #Crystal with healing glow.# %True% ^70^
+$007$ @CONSUMABLE@ !Feywater Elixir! #Heals and reverses curses.# %True% ^80^
+$008$ @CONSUMABLE@ !Astral Muffin! #Instant healing and clarity.# %True% ^90^
+$009$ @CONSUMABLE@ !Time-Weaver's Balm! #Rewinds recent injuries.# %True% ^999^
+$010$ @CONSUMABLE@ !Celestial Nectar! #Heals and purifies.# %True% ^100^
+$011$ @CONSUMABLE@ !Arcane Ephemera! #Restores mana instantly.# %False% ^10^
+$012$ @CONSUMABLE@ !Mystic Mana Crystal! #Replenishes mana quickly.# %False% ^20^
+$013$ @CONSUMABLE@ !Ethereal Elixir! #Restores mana.# %False% ^30^
+$014$ @CONSUMABLE@ !Leyline Lollipop! #Replenishes mana.# %False% ^40^
+$015$ @CONSUMABLE@ !Siren's Tear Vial! #Restores mana.# %False% ^50^
+$016$ @CONSUMABLE@ !Astral Resonator! #Restoring mana.# %False% ^60^
+$017$ @CONSUMABLE@ !Stardust Synergy Salve! #Restores mana.# %False% ^70^
+$018$ @CONSUMABLE@ !Nexus Nectar! #Replenishes mana.# %False% ^80^
+$019$ @CONSUMABLE@ !Quantum Quencher! #Instantly restoring mana.# %False% ^90^
+$020$ @CONSUMABLE@ !Celestial Conduit Orb! #Bursts of mana.# %False% ^999^
+$021$ @WEAPON@ !Runeblade of Eldritch Flames! #The blade of flames.# &60& *10*
+$022$ @WEAPON@ !Thunderstrike Hammer! #Thunderstorm warhammer# &80& *05*
+$023$ @WEAPON@ !Shadowshade Bow! #Shadowshade Bow.# &30& *20*
+$024$ @WEAPON@ !Arcane Staff! #Magical Crystal Staff.# &40& *01*
+$025$ @WEAPON@ !Serpent's Dagger! #Imbues fear in foes.# &50& *60*
+$026$ @WEAPON@ !Celestial Lance! #Destroys through Celestial prowess.# &200& *80*
+$027$ @WEAPON@ !Frostbite Gauntlets! #Cause immense frost damage.# &70& *30*
+$028$ @WEAPON@ !Phoenix Boomerang! #Burns enemies to ash.# &40& *10*
+$029$ @WEAPON@ !Soulrender Scythe! #Slices souls in half.# &150& *60*
+$030$ @WEAPON@ !Dragon's Roar Warhorn! #Offers augmented defense.# &180& *100*
+$031$ @WEAPON@ !Gorgon's Shield! #Offers immense defense.# &50& *50*
+$032$ @WEAPON@ !Ironclad Shortsword! #A sturdy shortsword with a simple design.# &20& *10*
+$033$ @WEAPON@ !Oakwood Longbow! #A longbow crafted from resilient oak.# &70& *10*
+$034$ @WEAPON@ !Flintstrike Dagger! #A dagger with a flint edge.# &20& *80*
+$035$ @WEAPON@ !Emberbrand Torch! #Burns with magical flames.# &10& *30*
+$036$ @WEAPON@ !Runic Sling! #Improves accuracy of projectiles.# &50& *60*
+$037$ @WEAPON@ !Cobblestone Club! #Club made from sturdy cobblestone.# &40& *10*
+$038$ @WEAPON@ !Silversteel Throwing Knives! #Lightweight throwing knives.# &10& *30*
+$039$ @WEAPON@ !Whirlwind Staff! #A staff with a carved wind design.# &10& *70*
+$040$ @WEAPON@ !Wolf Fang Spear! #A spear tipped with a wolf fang.# &80& *10*
+$041$ @WEAPON@ !Computer! #Code and Monster executer.# &10& *50*
